@@ -38,3 +38,6 @@ npm install
 * Run the Project:
 
 npm start
+
+**Screenshot**
+- ![Screenshot](https://github.com/cryptomathematician/rn-assignment2-ID-11288689/blob/main/my-app/assets/Screenshot_1716725461.png)
